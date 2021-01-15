@@ -6,3 +6,8 @@ main
 server
 client
 dotprod
+.aux
+.log
+.out
+.synctex.gz
+
